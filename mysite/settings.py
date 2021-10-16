@@ -11,7 +11,6 @@ https://docs.djangoproject.com/en/3.2/ref/settings/
 """
 
 import os # new 16.10.2021
-from pathlib import Path
 
 from pathlib import Path
 
